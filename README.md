@@ -6,6 +6,8 @@
  trilha discover,foi criar um Countdown para um
  lançamento de um site,produto ou serviço.
 
+# 🔥 Previa do desafio 
+  <img src="  ">
 
 # 🚀 Tecnologias usadas 
 + Html
